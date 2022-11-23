@@ -1,0 +1,32 @@
+Running of \alpha_s:
+\Lambda_expl = 0.214837
+\Lambda_impl = 0.214267
+\alpha_s^Lam = 0.215038
+\alpha_s^exa = 0.217149
+
+Relations among quark masses:
+mMS    = 162.951
+mOS    = 175.212
+mMSrun = 162.913
+mOSrun = 175.843
+mMSit  = 162.946
+
+mSI(from OS)  = 4.05063
+mMS(from MS)  = 2.69971
+mSI(from MS)  = 3.97019
+mRI(from MS)  = 2.87259
+mMS(from RI)  = 163.867
+mRGI(from MS) = 14.2128
+mMS(from RGI) = 2.69704
+
+Decoupling:
+as6 = 0.117432
+as5 = 0.104752
+mb6 = 2.69729
+mc4 = 0.583049
+
+Running and decoupling:
+as6(500) = 0.0951581
+as4(1.6) = 0.338573
+mc4(Mz)  = 0.579866
+mc4(1.2) = 1.21164
